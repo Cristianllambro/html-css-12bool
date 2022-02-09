@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+[class*="row"] {
+    height: 70px;
+}
+
+.green-blue{
+    background-color: #0d3e35;
+}
+
+.blue-one{
+    background-color: #34edcd;
+}
+
+.blue-two{
+    background-color: #2dc8ad;
+}
+
+.blue-three{
+    background-color: #27b199;
+}
+
+.brown-one{
+    background-color: #422002;
+}
+
+.brown-two{
+    background-color: #663301;
+}
+
+.brown-three{
+    background-color: #ab5501;
+}
+
+.brown-four{
+    background-color: #1f0b01;
+}
