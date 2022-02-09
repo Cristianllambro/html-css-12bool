@@ -17,24 +17,6 @@
 
 }
 
-.inside-2-green{
-    width: calc((100% / 12) * 2);
-    max-width: calc((100% / 12) * 2); 
-}
-
-.inside-6-green{
-    width: calc((100% / 12) * 6);
-    max-width: calc((100% / 12) * 6); 
-}
-
-.inside-8-green{
-    width: calc((100% / 12) * 8);
-    max-width: calc((100% / 12) * 8); 
-}
-
-
-
-
 .col-1{
     width: calc((100% / 12) * 1);
     max-width: calc((100% / 12) * 1);

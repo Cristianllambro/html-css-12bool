@@ -13,15 +13,16 @@
 
 }
 
+[class*="row"] {
+    height: 40px;
+}
+
 .txt{
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-[class*="row"] {
-    height: 40px;
-}
 
 p{
     font-weight: bold;
