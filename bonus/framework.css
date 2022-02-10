@@ -14,7 +14,11 @@
 /* COL XS */
 [class*="col-"]{
     flex: 0 0 auto;
+}
 
+.col{
+    flex: 1 0 0;
+    max-width: 100%;
 }
 
 .col-1{
