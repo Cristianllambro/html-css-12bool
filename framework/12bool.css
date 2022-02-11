@@ -130,7 +130,7 @@
 
 /* MEDIA QUARY */
 
-@media screen and (max-width: 575px) {
+@media screen and (min-width: 575px) {
     [class*="col-"]{
         width: 100%;
     }
